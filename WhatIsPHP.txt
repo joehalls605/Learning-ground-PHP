@@ -1,6 +1,7 @@
 PHP is a server side scripting language. It runs directly on a server and not in the browser.
 
-So when we hit enter, it sends a request to the server that hosts the website. Here on the server the PHP code will run.
+So when we hit enter, it sends a request to the server that hosts the website. 
+Here on the server the PHP code will run.
 At this point we could compile HTML template and send that back to the browser.
 
 At some other point, we could fill in a form. When we hit submit it sends a request to the server, and it uses that data, save it to database.
