@@ -1,0 +1,15 @@
+XAMPP is a free and open-source software package that provides an easy way to set up a local web server on your computer. It's useful for developing and testing websites or web applications before deploying them to a live server. 
+
+Here’s a simple breakdown of what XAMPP includes:
+
+1. **Apache**: A web server software that serves your web pages to users. It handles HTTP requests and delivers your website content.
+
+2. **MySQL/MariaDB**: A database system that stores and manages your data. MySQL is commonly used, but MariaDB is a fork of MySQL that’s often included.
+
+3. **PHP**: A programming language used to create dynamic web pages. It processes server-side code and interacts with databases.
+
+4. **Perl**: Another programming language included in XAMPP, often used for scripting and various administrative tasks.
+
+5. **phpMyAdmin**: A web-based interface for managing your MySQL/MariaDB databases. It makes it easier to create, modify, and manage databases through a graphical user interface.
+
+By installing XAMPP, you get all these components pre-configured and ready to use on your local machine, allowing you to develop and test your web applications in a controlled environment without needing a live internet server.
